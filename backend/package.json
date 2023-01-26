@@ -1,0 +1,23 @@
+{
+  "name": "busca-emprego",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mariaalm20/buscaEmprego.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariaalm20/buscaEmprego/issues"
+  },
+  "homepage": "https://github.com/mariaalm20/buscaEmprego#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
